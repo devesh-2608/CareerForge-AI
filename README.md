@@ -3,7 +3,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/DevGoyalG)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-0A66C2?logo=GitHub&logoColor=white)](https://github.com/DevGoyalG?tab=repositories)
 
-<h1 align="center">💼 JobGeniusAI – AI Career Coach 🤖</h1>
+<h1 align="center">💼 CareerForge AI – AI Career Coach 🤖</h1>
 
 
 ## 🌟 Highlights:
